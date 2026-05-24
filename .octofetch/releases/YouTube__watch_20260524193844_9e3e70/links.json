@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7577",
+  "folder": "YouTube__watch_20260524193844_9e3e70",
+  "base_name": "y6Qi6C0IYAo_y6Qi6C0IYAo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/incognito818/Cloud-Downloads2/releases/tag/co-releases-v1-7577",
+  "files": [
+    {
+      "name": "y6Qi6C0IYAo_y6Qi6C0IYAo_720p.mp4",
+      "url": "https://github.com/incognito818/Cloud-Downloads2/releases/download/co-releases-v1-7577/y6Qi6C0IYAo_y6Qi6C0IYAo_720p.mp4",
+      "api_url": "https://api.github.com/repos/incognito818/Cloud-Downloads2/releases/assets/428749655",
+      "id": 428749655,
+      "size": 199009532,
+      "download_count": 0
+    }
+  ]
+}
